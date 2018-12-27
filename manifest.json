@@ -1,0 +1,13 @@
+{
+  "version": "0.1",
+  "name": "mp theme",
+  "theme": {
+    "images" : {
+      "theme_ntp_background" : "images/monty-python.jpg"
+    },
+    "properties" : {
+      "ntp_background_alignment" : "bottom"
+    }
+  },
+  "manifest_version": 2
+}
